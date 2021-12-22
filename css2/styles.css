@@ -1,0 +1,48 @@
+.encabezado{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: rgba(24, 124, 24, 0.815);
+}
+.encabezadoCursiva{
+    font-size: 25px;
+    color: white;
+    font-style: italic;
+}
+h2{
+    font-size: 25px;
+    color: antiquewhite;
+    font-family: 'Courier';
+}
+.Parrafo1{
+font-size: 15px;
+color: orange;
+font-family: Verdana;
+}
+.Parrafo2{
+    font-size: 25px;
+    color: white;
+    font-style: italic;   
+}
+.Parrafo3{
+    font-size: 25px;
+    color: orange;
+    font-family: cursive;
+}
+.Tefaltan2{
+    font-size: 25px;
+    color: red;
+    font-family: cursive;
+}
+.Tefalta1{
+    font-size: 20px;
+    color: bisque;
+    font-family: cursive;
+}
+.Tefalta0{
+    font-size: 25px;
+    color: rgb(221, 45, 45);
+    font-family: cursive;
+}
+

@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(105, 224, 224);
+}
+.Contra{
+text-align: right;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+.ComicSans{
+text-align: right;
+color: red;
+font-family: cursive;
+}
+.spanoUno{
+    color: burlywood;
+}
+.spanDos{
+    color: rgb(192, 122, 31);
+}
+.spanTres{
+    background-color: white;
+    font-style: italic;
+}
+.spanCuatro{
+    background-color: white;
+    font-style: italic;
+}
+.spanCinco{
+    background-color: white;
+    font-style: italic;
+}
+.spanSeis{
+    color: rgb(192, 122, 31);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spanSiete{
+    color: rgb(192, 122, 31);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spanOcho{
+    color: rgb(192, 122, 31);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spanNueve{
+    color: rgb(218, 145, 49);
+}
+.spanDiez{
+    color: rgb(192, 122, 31);
+    background-color: white;
+    font-style: italic;
+}
+.spanOnce{
+    color: rgb(192, 122, 31);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spanDoce{
+    color: rgb(192, 122, 31);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spanTrece{
+    color: rgb(192, 122, 31);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spanCatorce{
+    color: rgb(192, 122, 31);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spanQuince{
+    color: rgb(253, 189, 105);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spanDiezySeis{
+    color: rgb(253, 189, 105);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spanDiezySiete{
+    color: rgb(253, 189, 105);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spanDiezyOcho{
+    color: rgb(117, 98, 73);
+    font-style: italic;
+    background-color: white;
+}
+.spanDiezyNueve{
+    color: rgb(117, 98, 73);
+    font-style: italic;
+    background-color: white;
+}
+.spanVeinte{
+    color: rgb(117, 98, 73);
+    font-style: italic;
+    background-color: white;
+}
+.spanVeintiCinco{
+    color: rgb(253, 189, 105);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spanVeintiSeis{
+    color: rgb(253, 189, 105);
+    font-family: Arial, Helvetica, sans-serif;
+}
+

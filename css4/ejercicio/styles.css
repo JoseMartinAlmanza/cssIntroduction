@@ -1,0 +1,60 @@
+body{
+    background-color: rgba(27, 148, 27, 0.575);
+}
+.title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    color: white;
+}
+.caja{
+    width: 600px;
+    height: 50px;
+    margin: 20px;
+    padding: 20px;
+}
+.une{
+text-align: center;
+border: 5px solid black;
+border-radius: 60px;
+margin-left: 500px;
+background-color: white;
+
+}
+.dos{
+    border: 10px solid orangered;
+    border-radius: 30px  0 0 30px;
+    background-color: orange;
+    color: white;
+}
+.tres{
+    border: 10px solid chocolate;
+    border-radius: 0 60px 60px 0;
+    background-color: yellowgreen;
+    margin-left: 900px;
+    color:white;
+}
+.cuatro{
+    border: 10px dashed rgb(53, 53, 168);
+margin-left: 500px;
+background-color: blue;
+color:white;
+}
+.cinco{
+    border: 15px solid orangered;
+    border-radius: 60px 0 0 60px;   
+    background-color: orange;
+    color: white;
+}
+.seis{
+    border: 5px solid chocolate;
+    border-radius: 0 60px 60px 0;
+    margin-left: 900px;
+    background-color: chartreuse;
+    color: white;
+}
+.siete{
+    border: 5px dashed rgb(53, 53, 168);
+    margin-left: 500px;
+    background-color: blue;
+color:white;
+}

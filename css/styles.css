@@ -1,0 +1,26 @@
+
+/* Comentarios en CSS*/
+h1{
+    font-size: 72px;
+/* color de fuente */
+    color: cadetblue;
+    /* Background-color es para el color de fondo */
+    background-color: forestgreen;
+    /* text-align: nos permite alinear texto */
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+.texto{
+    color: white;
+    background-color: black;
+}
+p{
+    color: white;
+    background-color: dimgray;
+}
+p{
+    color: yellow;
+    background-color: teal;
+}
